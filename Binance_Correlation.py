@@ -6,6 +6,7 @@ from sklearn.linear_model import LinearRegression
 from PIL import Image
 import statsmodels.api as sm
 import plotly.express as px
+import plotly.graph_objects as go
 
 # Initialize Binance Client
 API_KEY = 'vi8jUaBge48S8qMbnpOZFg9hiMHh3F5AyxDyBD2AX6YYnUMS1DBdCix34ctaVw0W'

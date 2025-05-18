@@ -1,0 +1,8 @@
+streamlit
+pandas
+python-binance
+scikit-learn
+Pillow
+statsmodels
+plotly
+
